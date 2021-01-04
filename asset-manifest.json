@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/jamesaspinall/distributed_tracing_poc_frontend/static/css/main.4ef94a39.chunk.css",
+    "main.js": "/jamesaspinall/distributed_tracing_poc_frontend/static/js/main.b51a8d53.chunk.js",
+    "main.js.map": "/jamesaspinall/distributed_tracing_poc_frontend/static/js/main.b51a8d53.chunk.js.map",
+    "runtime-main.js": "/jamesaspinall/distributed_tracing_poc_frontend/static/js/runtime-main.dca9750b.js",
+    "runtime-main.js.map": "/jamesaspinall/distributed_tracing_poc_frontend/static/js/runtime-main.dca9750b.js.map",
+    "static/js/2.8c0a6f08.chunk.js": "/jamesaspinall/distributed_tracing_poc_frontend/static/js/2.8c0a6f08.chunk.js",
+    "static/js/2.8c0a6f08.chunk.js.map": "/jamesaspinall/distributed_tracing_poc_frontend/static/js/2.8c0a6f08.chunk.js.map",
+    "static/js/3.fce750ee.chunk.js": "/jamesaspinall/distributed_tracing_poc_frontend/static/js/3.fce750ee.chunk.js",
+    "static/js/3.fce750ee.chunk.js.map": "/jamesaspinall/distributed_tracing_poc_frontend/static/js/3.fce750ee.chunk.js.map",
+    "index.html": "/jamesaspinall/distributed_tracing_poc_frontend/index.html",
+    "static/css/main.4ef94a39.chunk.css.map": "/jamesaspinall/distributed_tracing_poc_frontend/static/css/main.4ef94a39.chunk.css.map",
+    "static/js/2.8c0a6f08.chunk.js.LICENSE.txt": "/jamesaspinall/distributed_tracing_poc_frontend/static/js/2.8c0a6f08.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.dca9750b.js",
+    "static/js/2.8c0a6f08.chunk.js",
+    "static/css/main.4ef94a39.chunk.css",
+    "static/js/main.b51a8d53.chunk.js"
+  ]
+}
